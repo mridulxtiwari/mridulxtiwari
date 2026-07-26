@@ -36,15 +36,6 @@ I am a **Software Engineer** specializing in building high-throughput, real-worl
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="Mridul's GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Most Used Languages" height="180px"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 *   💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)

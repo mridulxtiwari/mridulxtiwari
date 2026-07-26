@@ -14,12 +14,6 @@ I am a **Software Engineer** specializing in building high-throughput, real-worl
 
 ---
 
-
-*   **AI Engineering Ecosystems:** GitHub Copilot, OpenAI Codex, Claude, and Custom RAG-based AI Agent systems.
-*   **Engineering Fundamentals:** Data Structures & Algorithms (DSA), Low-Level Design (LLD), OOPs, and Backend Design Patterns.
-
----
-
 ### 🚀 Professional Highlights
 
 *   **Distributed Architecture Tuning:** Scaled microservices to process **20k+ daily data requests** while lowering application latency by **30–40%** through advanced querying and SQL tuning.

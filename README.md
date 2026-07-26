@@ -1,54 +1,42 @@
 # Hi there, I'm Mridul Tiwari 👋
 
-I am a **Software Engineer** specializing in building high-throughput, real-world D2C products, distributed backends, and fault-tolerant architectures. Currently optimizing core microservices engines and modernizing enterprise software with AI-assisted pipelines.
+I am a **Software Engineer** specializing in building high-throughput, real-world D2C products, distributed backends, and fault-tolerant architectures. Currently optimizing core microservices engines and modernizing enterprise software with AI-assisted workflows.
 
 ---
 
 ### 🛠️ Tech Stack & Core Skills
 
-*   **Languages:**  
-    ![Java](https://shields.io)
-    ![SQL](https://shields.io)
-    ![Python](https://shields.io)
-    ![C++](https://shields.io)
-    ![JavaScript](https://shields.io)
+*   **Languages:** Java 17+, SQL, Python, C++, JavaScript
+*   **Frameworks & Architectures:** Spring Boot 3, Microservices, Apache Kafka, REST APIs
+*   **Cloud & Reliability:** Docker, Kubernetes, AWS (EC2, S3, IAM), Dynatrace, Jenkins
+*   **AI Engineering Ecosystems:** GitHub Copilot, OpenAI Codex, Claude, and Custom RAG-based AI Agent systems
+*   **Engineering Fundamentals:** Data Structures & Algorithms (DSA), Low-Level Design (LLD), OOPs, and Backend Design Patterns
 
-*   **Frameworks & Backends:**  
-    ![Spring Boot 3](https://shields.io)
-    ![Microservices](https://shields.io)
-    ![Apache Kafka](https://shields.io)
-    ![REST APIs](https://shields.io)
+---
 
-*   **Cloud, Platforms & Observability:**  
-    ![Docker](https://shields.io)
-    ![Kubernetes](https://shields.io)
-    ![AWS](https://shields.io)
-    ![Dynatrace](https://shields.io)
-    ![Jenkins](https://shields.io)
 
-*   **AI & Engineering Fundamentals:**  
-    *   **AI Systems:** GitHub Copilot, OpenAI Codex, Custom RAG-based AI Agentic workflows
-    *   **Core Concepts:** Low-Level Design (LLD), Design Patterns, Object-Oriented Programming (OOPS), Data Structures & Algorithms (DSA)
+*   **AI Engineering Ecosystems:** GitHub Copilot, OpenAI Codex, Claude, and Custom RAG-based AI Agent systems.
+*   **Engineering Fundamentals:** Data Structures & Algorithms (DSA), Low-Level Design (LLD), OOPs, and Backend Design Patterns.
 
 ---
 
 ### 🚀 Professional Highlights
 
-*   **Distributed Architecture Tuning:** Scaled production microservices to handle **20k+ daily requests** and successfully dropped system latencies by **30–40%** via database index and query optimizations.
-*   **Legacy Systems Engineering:** Migrated critical legacy batch codebases into decoupled, fault-tolerant Spring Boot architectures using automated, AI-accelerated migration review systems.
-*   **Reliability & Testing:** Enforced extreme testing disciplines across financial engines, routinely reaching **90%+ test code coverage** using JUnit 5 and Mockito frameworks.
+*   **Distributed Architecture Tuning:** Scaled microservices to process **20k+ daily data requests** while lowering application latency by **30–40%** through advanced querying and SQL tuning.
+*   **Legacy Modernization:** Refactored business-critical PL/1 mainframe batch jobs and procedures into Spring Boot microservices. Orchestrated AI-driven custom agents to cut migration timelines by **70%**.
+*   **Production Reliability:** Enhanced Kafka logging infrastructure with customized correlation metadata to streamline system-wide tracing, lowering debugging timelines across core platform pipelines.
 
 ---
 
-### 🏆 Coding Milestones
+### 🏆 Competitive Coding Milestones
 
 *   **LeetCode:** Knight ⚔️ (Peak Rating: **1900+**, Top 5% globally, 700+ problems solved)
 *   **Codeforces:** Pupil 📊 (Peak Rating: **1200+**, 300+ problems solved across 25+ live global rounds)
-*   **Awards:** Recipient of the corporate *Quarterly Excellence Award (Wall of Awesomeness)* and *Monthly Performance Award (Tech Titan)*.
+*   **Corporate Honors:** Recipient of the *Quarterly Excellence Award (Wall of Awesomeness)* and *Monthly Performance Award (Tech Titan)*.
 
 ---
 
-### 📊 GitHub Dynamics
+### 📊 GitHub Analytics
 
 <p align="left">
   <img src="https://vercel.app" alt="Mridul's GitHub Stats" height="180px"/>
@@ -62,19 +50,3 @@ I am a **Software Engineer** specializing in building high-throughput, real-worl
 *   💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 *   📧 **Email:** [mridultiwari1424@gmail.com](mailto:mridultiwari1424@gmail.com)
 *   📍 **Location:** Pune, India
-
-
-<!--
-**mridulxtiwari/mridulxtiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
